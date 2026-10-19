@@ -1,0 +1,2 @@
+# NT_and_ABM
+Coursework and project for Network Theory and Agent-Based Modelling, with applications to spatial single-cell networks and infection dynamics.
