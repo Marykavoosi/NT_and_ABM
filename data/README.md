@@ -22,3 +22,6 @@ For the network analysis, individual cells will be represented as nodes and spat
 Raw files should be downloaded directly from GEO.
 
 The exact sample selected for the course analyses will be documented here once the WT samples have been compared.
+
+Access:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309522
