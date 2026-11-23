@@ -9,7 +9,6 @@ NCBI GEO accession:
 **GSE309522**
 
 The dataset contains Xenium spatial transcriptomics samples from mouse mesenteric lymph nodes in the context of persistent Salmonella infection.
-
 For the network analysis, individual cells will be represented as nodes and spatial neighbourhood relationships will define edges.
 
 ## Directory structure
@@ -20,7 +19,6 @@ For the network analysis, individual cells will be represented as nodes and spat
 ## Reproducibility
 
 Raw files should be downloaded directly from GEO.
-
 The exact sample selected for the course analyses will be documented here once the WT samples have been compared.
 
 Access:
